@@ -10,7 +10,7 @@
 		<false/>
 	</dict>
 	<key>UUID</key>
-	<integer>21</integer>
+	<integer>25</integer>
 	<key>centeredOrigin</key>
 	<false/>
 	<key>currentResolution</key>
@@ -151,7 +151,7 @@
 			</dict>
 			<dict>
 				<key>UUID</key>
-				<integer>17</integer>
+				<integer>21</integer>
 				<key>baseClass</key>
 				<string>CCSprite</string>
 				<key>children</key>
@@ -259,7 +259,7 @@
 			</dict>
 			<dict>
 				<key>UUID</key>
-				<integer>18</integer>
+				<integer>22</integer>
 				<key>baseClass</key>
 				<string>CCSprite</string>
 				<key>children</key>
@@ -367,7 +367,7 @@
 			</dict>
 			<dict>
 				<key>UUID</key>
-				<integer>19</integer>
+				<integer>23</integer>
 				<key>baseClass</key>
 				<string>CCSprite</string>
 				<key>children</key>
@@ -377,7 +377,7 @@
 				<key>displayName</key>
 				<string>bush</string>
 				<key>memberVarAssignmentName</key>
-				<string></string>
+				<string>_bush1</string>
 				<key>memberVarAssignmentType</key>
 				<integer>1</integer>
 				<key>properties</key>
@@ -397,7 +397,7 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>160</real>
+							<real>0.0</real>
 							<real>106</real>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -411,7 +411,7 @@
 						<string>Point</string>
 						<key>value</key>
 						<array>
-							<real>0.5</real>
+							<real>0.0</real>
 							<real>0.5</real>
 						</array>
 					</dict>
@@ -475,7 +475,7 @@
 			</dict>
 			<dict>
 				<key>UUID</key>
-				<integer>20</integer>
+				<integer>24</integer>
 				<key>baseClass</key>
 				<string>CCSprite</string>
 				<key>children</key>
@@ -505,7 +505,7 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>480</real>
+							<real>320</real>
 							<real>106</real>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -519,7 +519,7 @@
 						<string>Point</string>
 						<key>value</key>
 						<array>
-							<real>0.5</real>
+							<real>0.0</real>
 							<real>0.5</real>
 						</array>
 					</dict>
@@ -580,6 +580,8 @@
 						<array/>
 					</dict>
 				</array>
+				<key>selected</key>
+				<true/>
 			</dict>
 			<dict>
 				<key>UUID</key>

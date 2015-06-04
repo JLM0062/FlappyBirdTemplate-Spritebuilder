@@ -127,6 +127,8 @@
 
 - (void)update:(CCTime)delta
 {
+    
+    
     // move and loop the bushes
     for (CCNode *bush in _bushes) {
         // move the bush
@@ -154,6 +156,7 @@
                                  2 * cloud.contentSize.width, cloud.position.y);
         }
     }
+    
     
     _sinceTouch += delta;
     
